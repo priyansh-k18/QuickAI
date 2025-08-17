@@ -9,7 +9,7 @@ import GenerateImages from './Pages/GenerateImages'
 import RemoveBackground from './Pages/RemoveBackground'
 import RemoveObject from './Pages/RemoveObject'
 import ReviewResume from './Pages/ReviewResume'
-import Community from './Pages/community'
+import Community from './Pages/Community'
 import {Toaster} from 'react-hot-toast'
 
 const App = () => {
